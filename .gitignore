@@ -1,0 +1,5 @@
+# Ignore all files in any directory named archive
+Archive/
+
+# Ignore the target directory
+target/
