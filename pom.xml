@@ -8,7 +8,9 @@
   <artifactId>SimpleLog</artifactId>
   <packaging>jar</packaging>
   <version>1.0</version>
+	
 
+	  //Testing for issue2
   <name>SimpleLog</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
